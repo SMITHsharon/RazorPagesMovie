@@ -14,5 +14,6 @@ namespace RazorPagesMovie2.Models
         }
 
         public DbSet<Movie> Movie { get; set; }
+        public DbSet<Schedule> Schedule { get; set; }
     }
 }
