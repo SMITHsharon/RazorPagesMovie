@@ -6,7 +6,7 @@
 - ASP.NET Core Web App 2.0
 - .NET Framework 4.6.1
 2. Added a Data Model, `Movie`
-3. Added scaffold tooling and perform initial data migration
+3. Added scaffold tooling and performed initial data migration
 4. Scaffolded `Create`, `Edit`, `Details`, and `Delete` pages
 5. Seeded the local `Movie` database
 6. Revised to Date and Currency output formats
