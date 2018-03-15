@@ -9,4 +9,8 @@
 3. Add scaffold tooling and perform initial data migration
 4. Scaffold `Create`, `Edit`, `Details`, and `Delete` pages
 5. See the local `Movie` database
-6. 
+6. Revise to Date and Currency output formats
+7. Add `Search` capability
+8. Add a field to the `Movie` model
+9. Add validation attributes to the `Movie` model
+10. Add `Upload` feature to app
