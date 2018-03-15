@@ -9,7 +9,7 @@
 3. Added scaffold tooling and performed initial data migration
 4. Scaffolded `Create`, `Edit`, `Details`, and `Delete` pages
 5. Seeded the local `Movie` database
-6. Revised to Date and Currency output formats
+6. Revised `Date` and `Currency` output formats
 7. Added `Search` capability
 8. Added a field to the `Movie` model
 9. Added validation attributes to the `Movie` model
